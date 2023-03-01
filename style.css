@@ -6,6 +6,11 @@ html{
     width: 100%;
 }
 
+body{
+    margin: 0;
+    padding: 0;
+}
+
 .wrapper{
     height: 100%;
     width: 100%;
@@ -15,6 +20,23 @@ html{
     align-content: center;
 }
 
+nav{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+}
+
+
 svg{
-    max-width: 400px;
+    width: 400px;
+    max-width: 60vw;
+}
+
+a{
+    padding: 20px;
+    color: white;
 }
