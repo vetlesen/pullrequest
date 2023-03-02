@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png)
+
 # Pull Request
 
 - An digital equivilent to a fanzine
@@ -8,4 +10,3 @@
 
 ## Contributers:
 
-![alt text](http://url/to/img.png)
