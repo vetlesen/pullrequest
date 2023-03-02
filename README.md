@@ -7,3 +7,5 @@
 - You as a contributer is free to choose what every technology you want to use
 
 ## Contributers:
+
+![alt text](http://url/to/img.png)
