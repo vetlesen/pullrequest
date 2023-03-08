@@ -8,6 +8,9 @@
 - It must have two links, *next* and *back*
 - You as a contributer is free to choose what every technology you want to use
 
+## Other inspiration
+- https://www.designthreads.report/thread1´
+
 ## Contributers:
 
 - Andreea Tecusan
