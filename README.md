@@ -9,7 +9,7 @@
 - You as a contributer is free to choose what every technology you want to use
 
 ## Other inspiration
-- https://www.designthreads.report/thread1´
+- https://www.designthreads.report/thread1
 
 ## Contributers:
 
