@@ -39,4 +39,9 @@ svg{
 a{
     padding: 20px;
     color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
 }
