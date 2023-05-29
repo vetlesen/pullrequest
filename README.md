@@ -1,6 +1,6 @@
 ![pullrequest](https://user-images.githubusercontent.com/82095573/222518365-e1adcfa4-239b-4f76-84b8-850af726abed.svg)
 
-## Manifesto
+### Manifesto
 
 # Pull Request: A Collaborative Internet Fanzine
 
