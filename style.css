@@ -9,6 +9,8 @@ html{
 body{
     margin: 0;
     padding: 0;
+    height: 100%;
+    width: 100%;
 }
 
 .wrapper{
@@ -44,4 +46,17 @@ a{
 
 a:hover{
     text-decoration: underline;
+}
+
+.marquee {
+  display: block;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+svg {
+  display: block;
+}
+.logo {
+  fill: #fff;
 }
