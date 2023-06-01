@@ -39,7 +39,10 @@ Pull Request is released under the [MIT License](LICENSE).
 ## Other inspiration
 - https://www.designthreads.report/thread1
 
-## Contributers:
+## From
+Initiated by people at https://feed.no
+
+## Contributers so far
 
 - Andreea Tecusan
 - Mathias Stav
