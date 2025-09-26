@@ -40,7 +40,7 @@ Pull Request is released under the [MIT License](LICENSE).
 - https://www.designthreads.report/thread1
 
 ## From
-Initiated by people at https://feed.no
+Initiated by people at https://feed.no and https://www.vetlesen.no/
 
 ## Contributers so far
 
